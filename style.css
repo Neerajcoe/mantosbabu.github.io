@@ -1,0 +1,164 @@
+body {
+                color: #40514e;
+                margin: 0;
+                text-align: center;
+                font-family: Apple Chancery, cursive;
+            }
+            
+            .top {
+                background-color: #7D9D9C;
+                position: relative;
+                padding-top: 100px;
+                /*   width: 200px;
+                height: 200px;
+                */
+            }
+            
+            h1 {
+                margin: 50px;
+                font-size: 90px;
+                font-family: Apple Chancery, cursive;
+                color: #034e4e;
+            }
+            
+            h2 {
+                font-family: 'Times New Roman', Times, serif;
+                font-weight: normal;
+                color: #1f7679;
+                padding-bottom: 10px;
+            }
+            
+            h3 {
+                font-family: 'Times New Roman', Times, serif;
+                color: #1f7679;
+            }
+            
+            p {
+                font-family: 'Times New Roman', Times, serif;
+            }
+            
+            .middle {
+                width: 200px;
+                height: 200px;
+                margin: 100px 0 100px 0;
+            }
+            
+            .bottom-containers {
+                background-color: #7D9D9C;
+                padding: 20px;
+                padding: 20px 0;
+            }
+            
+            .bottom_cloud {
+                position: absolute;
+                bottom: 300px;
+                left: 300px;
+            }
+            
+            .top_cloud {
+                position: absolute;
+                top: 50px;
+                right: 300px;
+            }
+            
+            .size {
+                font-size: 35px;
+                color: #034e4e;
+            }
+
+            
+            
+            .divi {
+                width: 30%;
+                height: 70%;
+                float: left;
+                margin-top: 0;
+                margin-right: 20px;
+                border-radius: 200%;
+            }
+            
+            .divi1 {
+                margin-left: 20px;
+                float: right;
+                width: 30%;
+                border-radius: 200%;
+            }
+            .skills{
+                background-color: #7D9D9C;
+            }
+            .skill-row {
+                width: 50%;
+                margin: 100px auto 100px auto;
+                line-height: 2;
+            }
+            
+            .intro1 {
+                width: 30%;
+                margin: auto;
+            }
+            
+            p {
+                line-height: 2;
+            }
+            
+            .head {
+                font-size: 35px;
+            }
+            
+            hr {
+                border-style: none;
+                border-color: rgb(97, 97, 97);
+                width: 5%;
+                border-top-style: dotted;
+                border-width: 10px;
+                margin: 70px auto;
+            }
+            
+            .btn {
+                background: #7D9D9C;
+                background-image: -webkit-linear-gradient(top, #7D9D9C, #7D9D9C);
+                background-image: -moz-linear-gradient(top, #7D9D9C, #7D9D9C);
+                background-image: -ms-linear-gradient(top, #7D9D9C, #7D9D9C);
+                background-image: -o-linear-gradient(top, #7D9D9C, #7D9D9C);
+                background-image: linear-gradient(to bottom, #7D9D9C, #7D9D9C);
+                -webkit-border-radius: 18;
+                -moz-border-radius: 18;
+                border-radius: 18px;
+                font-family: Georgia;
+                color: #ffffff;
+                font-size: 23px;
+                padding: 10px 20px 10px 20px;
+                text-decoration: none;
+            }
+            
+            .btn:hover {
+                background: #40514e;
+                background-image: -webkit-linear-gradient(top, #40514e, #3498db);
+                background-image: -moz-linear-gradient(top, #40514e, #3498db);
+                background-image: -ms-linear-gradient(top, #40514e, #3498db);
+                background-image: -o-linear-gradient(top, #40514e, #3498db);
+                background-image: linear-gradient(to bottom, #40514e, #3498db);
+                text-decoration: none;
+            }
+            
+            .contact-me {
+                padding-bottom: 20px;
+            }
+            
+            a {
+                color: #ffffff;
+                font-family: 'Times New Roman', Times, serif;
+                margin: 20px 10px;
+                text-decoration: none;
+                font-size: 17px;
+            }
+            
+            a:hover {
+                color: black;
+            }
+            
+            .copyright {
+                color: whitesmoke;
+                padding: 10px 0;
+                font-size: 0.75rem;
+            }
